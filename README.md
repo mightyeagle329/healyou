@@ -9,7 +9,7 @@ A comprehensive self-care and therapy web application. HealYou integrates AI for
 > >
 > > - a. Providing tailored legal, medical/health, or financial advice without review by a qualified professional and disclosure of the use of AI assistance and its potential limitations
 
-![Header image](https://github.com/nikolailehbrink/healyou/assets/38915700/868b32cf-47d8-4386-861f-ecc0358e472c)
+![Header image](https://github.com/mightyeagle329/healyou/assets/38915700/868b32cf-47d8-4386-861f-ecc0358e472c)
 
 ## ✨ Features
 
@@ -19,7 +19,7 @@ A comprehensive self-care and therapy web application. HealYou integrates AI for
 
 ## 📽️ Demo
 
-https://github.com/nikolailehbrink/healyou/assets/38915700/5727f14c-3356-4f3e-b33d-c00142904743
+https://github.com/mightyeagle329/healyou/assets/38915700/5727f14c-3356-4f3e-b33d-c00142904743
 
 ## 🛠️ Technologies
 
@@ -43,7 +43,7 @@ Before proceeding with the setup, it's essential to sign up for necessary servic
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/nikolailehbrink/healyou.git
+   git clone https://github.com/mightyeagle329/healyou.git
    ```
 
 2. Navigate to the project directory:
